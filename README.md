@@ -60,8 +60,9 @@ Par exemple, `Competence` est appelé une fois par compétence de la liste, et `
 
 ## Capture
 
-<!-- Ajouter ici une capture de la preview ou de l'application lancée, par exemple : -->
-<!-- ![Aperçu de la fiche profil](docs/capture.png) -->
+Application lancée sur un émulateur :
+
+<img src="docs/capture.png" alt="Fiche profil développeur de Fabien Lubin" width="340">
 
 ## Lancer le projet
 
